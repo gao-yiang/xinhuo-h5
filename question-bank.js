@@ -18,16 +18,16 @@
     {id:'nineteenth',title:'中国共产党第十九次全国代表大会报告',org:'共产党员网',url:'https://www.12371.cn/2017/10/27/ARTI1509103656574313.shtml'},
     {id:'twentieth',title:'中国共产党第二十次全国代表大会',org:'共产党员网',url:'https://www.12371.cn/2022/11/23/VIDE1669189440339331.shtml'},
     {id:'thirdplenum',title:'党的二十届三中全会《决定》',org:'北京市地方金融管理局',url:'https://jrj.beijing.gov.cn/ztzl/jrdj/llxx/202407/t20240725_3759479.html'},
-    {id:'fourthplenum',title:'中国共产党第二十届中央委员会第四次全体会议公报',org:'国家航天局',url:'https://www.cnsa.gov.cn/n6758823/n6758838/c10712454/content.html'},
+    {id:'fourthplenum',title:'中国共产党第二十届中央委员会第四次全体会议公报',org:'中华人民共和国外交部',url:'https://www.fmprc.gov.cn/ziliao_674904/1179_674909/202510/t20251023_11739370.shtml'},
     {id:'anniversary105',title:'在庆祝中国共产党成立105周年大会上的讲话',org:'共产党员网／新华社',url:'https://www.12371.cn/2026/07/01/ARTI1782887883715499.shtml'},
     {id:'lidazhao',title:'中国共产主义运动先驱——李大钊',org:'共产党员网',url:'https://news.12371.cn/2018/05/25/ARTI1527228513472668.shtml'},
-    {id:'chenduxiu',title:'纪念陈独秀诞辰一百四十周年',org:'中共中央党史和文献研究院第二研究部／人民网',url:'https://dangshi.people.com.cn/n1/2019/1205/c85037-31492172.html'},
-    {id:'maozedong',title:'毛泽东同志生平简介',org:'共产党员网',url:'https://news.12371.cn/2013/12/20/ARTI1387504049822760.shtml'},
-    {id:'zhude',title:'红军总司令的党证',org:'中华人民共和国国防部',url:'https://www.mod.gov.cn/gfbw/gfjy_index/js_214151/4888224.html'},
+    {id:'chenduxiu',title:'陈独秀：“德”、“赛”救中国',org:'中国共产党新闻网／人民网',url:'https://cpc.people.com.cn/GB/34136/2543709.html'},
+    {id:'maozedong',title:'毛泽东生平年表（1893—1925年）',org:'共产党员网',url:'https://news.12371.cn/2013/12/20/ARTI1387526444616337.shtml'},
+    {id:'zhude',title:'朱德谈学习党史',org:'共产党员网',url:'https://www.12371.cn/2021/02/26/ARTI1614342910957197.shtml'},
     {id:'zhouenlai',title:'周恩来生平',org:'中华人民共和国外交部',url:'https://www.fmprc.gov.cn/web/ziliao_674904/wjrw_674925/2166_674931/200805/t20080509_9880973.shtml'},
     {id:'jiaoyulu',title:'焦裕禄：心中装着百姓 一切为了人民',org:'共产党员网',url:'https://www.12371.cn/2022/08/15/ARTI1660561367742574.shtml'},
     {id:'dengxiaoping',title:'纪念邓小平诞辰110周年',org:'共产党员网',url:'https://www.12371.cn/special/dxpdc110zn/'},
-    {id:'xijinping',title:'习近平同志简历',org:'中华人民共和国国防部',url:'https://www.mod.gov.cn/gfbw/sy/tt_214026/4807142.html'}
+    {id:'xijinping',title:'习近平同志简历',org:'共产党员网',url:'https://www.12371.cn/2017/10/25/ARTI1508930367561645.shtml'}
   ];
   // [事件, 年份, 地点, 主要内容, 重要结果或意义, 来源]
   const events = [
